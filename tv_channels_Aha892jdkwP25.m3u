@@ -1,0 +1,502 @@
+#EXTM3U
+title="ITALY HD",|IT| RAI 1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96350
+#EXTINF:-1 tvg-ID="raidue.it" tvg-name="|IT| RAI 2 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI 2 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96348
+#EXTINF:-1 tvg-ID="raitre.it" tvg-name="|IT| RAI 3 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI 3 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96346
+#EXTINF:-1 tvg-ID="retequattro.it" tvg-name="|IT| RETE 4 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RETE 4 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96344
+#EXTINF:-1 tvg-ID="canale5.it" tvg-name="|IT| CANALE 5 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CANALE 5 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96342
+#EXTINF:-1 tvg-ID="italia1.it" tvg-name="|IT| ITALIA 1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| ITALIA 1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96340
+#EXTINF:-1 tvg-ID="la5.it" tvg-name="|IT| LA 5 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| LA 5 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96331
+#EXTINF:-1 tvg-ID="la7.it" tvg-name="|IT| LA 7 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| LA 7 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96338
+#EXTINF:-1 tvg-ID="rai4.it" tvg-name="|IT| RAI 4 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI 4 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96333
+#EXTINF:-1 tvg-ID="rai5.it" tvg-name="|IT| RAI 5 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI 5 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96332
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| ALICE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| ALICE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96184
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| ALPHA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| ALPHA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96175
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CAMPANIA CANALE 21 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CAMPANIA CANALE 21 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96151
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CAMPANIA CANALE 8 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CAMPANIA CANALE 8 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96152
+#EXTINF:-1 tvg-ID="blaze.it" tvg-name="|IT| BLAZE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| BLAZE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96315
+#EXTINF:-1 tvg-ID="cielo.it" tvg-name="|IT| CIELO HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CIELO HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96298
+#EXTINF:-1 tvg-ID="cinesony.it" tvg-name="|IT| CINE SONY HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CINE SONY HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96251
+#EXTINF:-1 tvg-ID="comedycentral.it" tvg-name="|IT| COMEDY CENTRAL HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| COMEDY CENTRAL HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96296
+#EXTINF:-1 tvg-ID="dmax.it" tvg-name="|IT| DMAX HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DMAX HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96174
+#EXTINF:-1 tvg-ID="dove.it" tvg-name="|IT| DOVE TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DOVE TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96167
+#EXTINF:-1 tvg-ID="" tvg-name="##### |IT|HD| BAMBINI HD #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",##### |IT|HD| BAMBINI HD #####
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96354
+#EXTINF:-1 tvg-ID="babytv.it" tvg-name="|IT| BABY TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| BABY TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96212
+#EXTINF:-1 tvg-ID="boing.it" tvg-name="|IT| BOING HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| BOING HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96198
+#EXTINF:-1 tvg-ID="k2.it" tvg-name="|IT| K2 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| K2 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96199
+#EXTINF:-1 tvg-ID="boomerang.it" tvg-name="|IT| BOOMERANG HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| BOOMERANG HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96194
+#EXTINF:-1 tvg-ID="cartoonnetwork.it" tvg-name="|IT| CARTOON NETWORK HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CARTOON NETWORK HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96205
+#EXTINF:-1 tvg-ID="cartoonito.it" tvg-name="|IT| CARTOONITO HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CARTOONITO HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96202
+#EXTINF:-1 tvg-ID="nickjunior.it" tvg-name="|IT| NICK JR HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| NICK JR HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96204
+#EXTINF:-1 tvg-ID="nickelodeon.it" tvg-name="|IT| NICKELODEON HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| NICKELODEON HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96203
+#EXTINF:-1 tvg-ID="classica.it" tvg-name="|IT| CLASSICA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CLASSICA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96294
+#EXTINF:-1 tvg-ID="deajunior.it" tvg-name="|IT| DEA JUNIOR HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DEA JUNIOR HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96207
+#EXTINF:-1 tvg-ID="raiyoyo.it" tvg-name="|IT| RAI YOYO HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI YOYO HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96201
+#EXTINF:-1 tvg-ID="deajunior.it" tvg-name="|IT| DEA KIDS HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DEA KIDS HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96206
+#EXTINF:-1 tvg-ID="deejaynove.it" tvg-name="|IT| DEEJAY TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DEEJAY TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96173
+#EXTINF:-1 tvg-ID="disneychannel.it" tvg-name="|IT| DISNEY HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DISNEY HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96210
+#EXTINF:-1 tvg-ID="disneyjunior.it" tvg-name="|IT| DISNEY JR HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DISNEY JR HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96209
+#EXTINF:-1 tvg-ID="pop.it" tvg-name="|IT| POP HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| POP HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96195
+#EXTINF:-1 tvg-ID="disneyxd.it" tvg-name="|IT| DISNEY XD HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DISNEY XD HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96208
+#EXTINF:-1 tvg-ID="manga.it" tvg-name="|IT| MANGA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| MANGA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96211
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| TEEN TITANS TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| TEEN TITANS TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96191
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PAW PATROL TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PAW PATROL TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96192
+#EXTINF:-1 tvg-ID="" tvg-name="##### |IT|HD| INTRATTENIMENTO HD #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",##### |IT|HD| INTRATTENIMENTO HD #####
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96360
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| EAGLE CINEMA MITOLOGIA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| EAGLE CINEMA MITOLOGIA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96160
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| EAGLE DISNEY TOPOLINO PAPERINO E PIPPO HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| EAGLE DISNEY TOPOLINO PAPERINO E PIPPO HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96159
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| EAGLE FIABE MAGICHE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| EAGLE FIABE MAGICHE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96158
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| EAGLE LE FIABE DISNEY HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| EAGLE LE FIABE DISNEY HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96157
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| EAGLE LOONEY TOONS HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| EAGLE LOONEY TOONS HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96156
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| EAGLE MASHA E ORSO HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| EAGLE MASHA E ORSO HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96155
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| EAGLE PEPPA PIG HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| EAGLE PEPPA PIG HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96154
+#EXTINF:-1 tvg-ID="focustv.it" tvg-name="|IT| FOCUS HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| FOCUS HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96183
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| FOX  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| FOX  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96311
+#EXTINF:-1 tvg-ID="foxanimation.it" tvg-name="|IT| FOX ANIMATION HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| FOX ANIMATION HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96304
+#EXTINF:-1 tvg-ID="foxcomedy.it" tvg-name="|IT| FOX COMEDY HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| FOX COMEDY HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96306
+#EXTINF:-1 tvg-ID="foxcrime.it" tvg-name="|IT| FOX CRIME HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| FOX CRIME HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96308
+#EXTINF:-1 tvg-ID="foxlife.it" tvg-name="|IT| FOX LIFE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| FOX LIFE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96310
+#EXTINF:-1 tvg-ID="gamberorosso.it" tvg-name="|IT| GAMBERO ROSSO HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| GAMBERO ROSSO HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96180
+#EXTINF:-1 tvg-ID="giallo.it" tvg-name="|IT| GIALLO HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| GIALLO HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96186
+#EXTINF:-1 tvg-ID="iris.it" tvg-name="|IT| IRIS HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| IRIS HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96254
+#EXTINF:-1 tvg-ID="la7d.it" tvg-name="|IT| LA 7D HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| LA 7D HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96336
+#EXTINF:-1 tvg-ID="laeffe.it" tvg-name="|IT| LAEFFE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| LAEFFE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96168
+#EXTINF:-1 tvg-ID="laziostylechannel.it" tvg-name="|IT| LAZIO STYLE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| LAZIO STYLE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96215
+#EXTINF:-1 tvg-ID="lei.it" tvg-name="|IT| LEI HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| LEI HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96297
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| M2O HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| M2O HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96142
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| MARCOPOLO HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| MARCOPOLO HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96165
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| MASHA E ORSO TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| MASHA E ORSO TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96193
+#EXTINF:-1 tvg-ID="" tvg-name="##### |IT|HD| CULTURA HD #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",##### |IT|HD| CULTURA HD #####
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96353
+#EXTINF:-1 tvg-ID="cacciapesca.it" tvg-name="|IT| CACCIA & PESCA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CACCIA & PESCA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96170
+#EXTINF:-1 tvg-ID="foodnetworkhd.it" tvg-name="|IT| FOOD NETWORK HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| FOOD NETWORK HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96176
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CACCIA & PESCA 2 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CACCIA & PESCA 2 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96169
+#EXTINF:-1 tvg-ID="crimeinvestigation.it" tvg-name="|IT| CI CRIME & INVESTIGATION HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CI CRIME & INVESTIGATION HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96302
+#EXTINF:-1 tvg-ID="discoverychannel.it" tvg-name="|IT| DISCOVERY HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DISCOVERY HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96182
+#EXTINF:-1 tvg-ID="discoveryscience.it" tvg-name="|IT| DISCOVERY SCIENCE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DISCOVERY SCIENCE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96181
+#EXTINF:-1 tvg-ID="frisbee.it" tvg-name="|IT| FRISBEE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| FRISBEE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96197
+#EXTINF:-1 tvg-ID="historychannel.it" tvg-name="|IT| HISTORY HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| HISTORY HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96179
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| ITALIAN FISHING HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| ITALIAN FISHING HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96172
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| HORSE TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| HORSE TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96230
+#EXTINF:-1 tvg-ID="interchannel.it" tvg-name="|IT| INTER CHANNEL HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| INTER CHANNEL HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96218
+#EXTINF:-1 tvg-ID="natgeowild.it" tvg-name="|IT| NATGEO WILD HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| NATGEO WILD HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96178
+#EXTINF:-1 tvg-ID="natgeopeople.it" tvg-name="|IT| NATIONAL GEO PEOPLE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| NATIONAL GEO PEOPLE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96171
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| NATIONAL GEOGRAPHIC HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| NATIONAL GEOGRAPHIC HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96177
+#EXTINF:-1 tvg-ID="" tvg-name="##### |IT|HD| MEDIASET PREMIUM SPORT HD #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",##### |IT|HD| MEDIASET PREMIUM SPORT HD #####
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96355
+#EXTINF:-1 tvg-ID="20mediasethd.it" tvg-name="|IT| MEDIASET 20 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| MEDIASET 20 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96330
+#EXTINF:-1 tvg-ID="mediasetextra.it" tvg-name="|IT| MEDIASET EXTRA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| MEDIASET EXTRA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96293
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| MEDIASET ITALIA 2 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| MEDIASET ITALIA 2 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96187
+#EXTINF:-1 tvg-ID="Mmilantv.it" tvg-name="|IT| MILAN CHANNEL HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| MILAN CHANNEL HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96217
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| MOTORTREND HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| MOTORTREND HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96229
+#EXTINF:-1 tvg-ID="bikechannel.it" tvg-name="|IT| BIKE CHANNEL HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| BIKE CHANNEL HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96232
+#EXTINF:-1 tvg-ID="automototv.it" tvg-name="|IT| AUTOMOTO TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| AUTOMOTO TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96234
+#EXTINF:-1 tvg-ID="eurosport.it" tvg-name="|IT| EUROSPORT 1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| EUROSPORT 1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96238
+#EXTINF:-1 tvg-ID="eurosport2.it" tvg-name="|IT| EUROSPORT 2 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| EUROSPORT 2 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96237
+#EXTINF:-1 tvg-ID="mtv.it" tvg-name="|IT| MTV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| MTV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96314
+#EXTINF:-1 tvg-ID="nove.it" tvg-name="|IT| NOVE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| NOVE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96334
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PADRE PIO TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PADRE PIO TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96153
+#EXTINF:-1 tvg-ID="paramountchannel.it" tvg-name="|IT| PARAMOUNT CHANNEL HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PARAMOUNT CHANNEL HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96252
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN SPORT SERIE A SAT HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN SPORT SERIE A SAT HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96135
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96899
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 2 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 2 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96898
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 3 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 3 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96897
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 4 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 4 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96896
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 5 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 5 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96895
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 6 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 6 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96894
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 7 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 7 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96893
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 8 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 8 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96892
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 9 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 9 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96891
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 10 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 10 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96890
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 11 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 11 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96889
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 12 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 12 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96888
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 13 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 13 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96887
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN 14 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| DAZN 14 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96886
+#EXTINF:-1 tvg-ID="" tvg-name="##### |IT|HD| PREMIUM CINEMA HD #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",##### |IT|HD| PREMIUM CINEMA HD #####
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96358
+#EXTINF:-1 tvg-ID="premiumaction.it" tvg-name="|IT| PREMIUM ACTION HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM ACTION HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96266
+#EXTINF:-1 tvg-ID="premiumcinema+24hd.it" tvg-name="|IT| PREMIUM CINEMA 24 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM CINEMA 24 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96268
+#EXTINF:-1 tvg-ID="premiumcinemacomedy.it" tvg-name="|IT| PREMIUM CINEMA COMEDY HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM CINEMA COMEDY HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96262
+#EXTINF:-1 tvg-ID="premiumcinemaemotion.it" tvg-name="|IT| PREMIUM CINEMA EMOTION HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM CINEMA EMOTION HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96258
+#EXTINF:-1 tvg-ID="premiumcinemadtt.it" tvg-name="|IT| PREMIUM CINEMA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM CINEMA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96270
+#EXTINF:-1 tvg-ID="premiumcrimedtt.it" tvg-name="|IT| PREMIUM CRIME HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM CRIME HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96264
+#EXTINF:-1 tvg-ID="premiumenergydtt.it" tvg-name="|IT| PREMIUM ENERGY HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM ENERGY HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96260
+#EXTINF:-1 tvg-ID="premiumstories.it" tvg-name="|IT| PREMIUM STORIES HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM STORIES HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96256
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PUGLIA ANTENNASUD BARI HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PUGLIA ANTENNASUD BARI HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96149
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PUGLIA CANALE 7 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PUGLIA CANALE 7 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96148
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PUGLIA STUDIO 100 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PUGLIA STUDIO 100 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96147
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PUGLIA TELEBARI HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PUGLIA TELEBARI HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96146
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| R 101 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| R 101 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96143
+#EXTINF:-1 tvg-ID="rtl1025tv.it" tvg-name="|IT| RADIO 105 TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RADIO 105 TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96141
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RADIO CAPITAL HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RADIO CAPITAL HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96140
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RADIO ITALIA TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RADIO ITALIA TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96139
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RADIOFRECCIA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RADIOFRECCIA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96137
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RADIONORBA TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RADIONORBA TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96136
+#EXTINF:-1 tvg-ID="raigulp.it" tvg-name="|IT| RAI GULP HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI GULP HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96200
+#EXTINF:-1 tvg-ID="raimovie.it" tvg-name="|IT| RAI MOVIE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI MOVIE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96190
+#EXTINF:-1 tvg-ID="rainews.it" tvg-name="|IT| RAI NEWS 24 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI NEWS 24 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96161
+#EXTINF:-1 tvg-ID="raipremium.it" tvg-name="|IT| RAI PREMIUM HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI PREMIUM HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96189
+#EXTINF:-1 tvg-ID="raisport.it" tvg-name="|IT| RAI SPORT HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI SPORT HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96235
+#EXTINF:-1 tvg-ID="raistoria.it" tvg-name="|IT| RAI STORIA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI STORIA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96188
+#EXTINF:-1 tvg-ID="realtime.it" tvg-name="|IT| REAL TIME HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| REAL TIME HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96185
+#EXTINF:-1 tvg-ID="romatv.it" tvg-name="|IT| ROMA CHANNEL HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| ROMA CHANNEL HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96219
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RSI LA1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RSI LA1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96329
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RSI LA2 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RSI LA2 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96328
+#EXTINF:-1 tvg-ID="rtl1025tv.it" tvg-name="|IT| RTL102.5TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RTL102.5TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96144
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SICILIA RADIO TAORMINA TV HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SICILIA RADIO TAORMINA TV HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96145
+#EXTINF:-1 tvg-ID="skyarte.it" tvg-name="|IT| SKY ARTE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY ARTE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96300
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ATLANTIC  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY ATLANTIC  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96317
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ATLANTIC  2 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY ATLANTIC  2 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96316
+#EXTINF:-1 tvg-ID="skyatlantic.it" tvg-name="|IT| SKY ATLANTIC HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY ATLANTIC HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96318
+#EXTINF:-1 tvg-ID="" tvg-name="##### |IT|HD| SKY CALCIO HD #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",##### |IT|HD| SKY CALCIO HD #####
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96356
+#EXTINF:-1 tvg-ID="skycalcio1.it" tvg-name="|IT| SKY CALCIO 1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CALCIO 1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96226
+#EXTINF:-1 tvg-ID="skycalcio2.it" tvg-name="|IT| SKY CALCIO 2 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CALCIO 2 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96225
+#EXTINF:-1 tvg-ID="skycalcio3.it" tvg-name="|IT| SKY CALCIO 3 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CALCIO 3 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96224
+#EXTINF:-1 tvg-ID="skycalcio4.it" tvg-name="|IT| SKY CALCIO 4 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CALCIO 4 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96223
+#EXTINF:-1 tvg-ID="skycalcio5.it" tvg-name="|IT| SKY CALCIO 5 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CALCIO 5 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96222
+#EXTINF:-1 tvg-ID="skycalcio6.it" tvg-name="|IT| SKY CALCIO 6 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CALCIO 6 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96221
+#EXTINF:-1 tvg-ID="skycalcio7.it" tvg-name="|IT| SKY CALCIO 7 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CALCIO 7 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96220
+#EXTINF:-1 tvg-ID="" tvg-name="##### |IT|HD| SKY CINEMA HD #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",##### |IT|HD| SKY CINEMA HD #####
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96359
+#EXTINF:-1 tvg-ID="skycinemaactionhd.it" tvg-name="|IT| SKY CINEMA ACTION HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA ACTION HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96282
+#EXTINF:-1 tvg-ID="skycinemacollectionhd.it" tvg-name="|IT| SKY CINEMA COLLECTION HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA COLLECTION HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96286
+#EXTINF:-1 tvg-ID="skycinemacomedy.it" tvg-name="|IT| SKY CINEMA COMEDY HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA COMEDY HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96280
+#EXTINF:-1 tvg-ID="skycinemadramahd.it" tvg-name="|IT| SKY CINEMA DRAMA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA DRAMA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96274
+#EXTINF:-1 tvg-ID="skycinemadue+24hd.it" tvg-name="|IT| SKY CINEMA DUE  24 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA DUE  24 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96287
+#EXTINF:-1 tvg-ID="skycinemaduehd.it" tvg-name="|IT| SKY CINEMA DUE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA DUE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96289
+#EXTINF:-1 tvg-ID="skycinemafamily.it" tvg-name="|IT| SKY CINEMA FAMILY HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA FAMILY HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96284
+#EXTINF:-1 tvg-ID="skycinemaromancehd.it" tvg-name="|IT| SKY CINEMA ROMANCE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA ROMANCE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96278
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA SUSPENSE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA SUSPENSE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96276
+#EXTINF:-1 tvg-ID="skycinemauno+24hd.it" tvg-name="|IT| SKY CINEMA UNO  24 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA UNO  24 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96290
+#EXTINF:-1 tvg-ID="skycinemaunohd.it" tvg-name="|IT| SKY CINEMA UNO HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA UNO HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96292
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FOX HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY FOX HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96312
+#EXTINF:-1 tvg-ID="" tvg-name="##### |IT|HD| SKY SPORT HD #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",##### |IT|HD| SKY SPORT HD #####
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96357
+#EXTINF:-1 tvg-ID="skysportgolf.it" tvg-name="|IT| SKY GOLF HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY GOLF HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96245
+#EXTINF:-1 tvg-ID="skysportmotogp.it" tvg-name="|IT| SKY MOTOGP HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY MOTOGP HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96240
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY PRIMAFILA WWE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY PRIMAFILA WWE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96271
+#EXTINF:-1 tvg-ID="skysport24.it" tvg-name="|IT| SKY SPORT 24 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY SPORT 24 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96250
+#EXTINF:-1 tvg-ID="skysportarena.it" tvg-name="|IT| SKY SPORT ARENA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY SPORT ARENA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96246
+#EXTINF:-1 tvg-ID="skysportfootball.it" tvg-name="|IT| SKY SPORT FOOTBALL HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY SPORT FOOTBALL HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96248
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT GOLF HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY SPORT GOLF HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96244
+#EXTINF:-1 tvg-ID="skysportsseriea.it" tvg-name="|IT| SKY SPORT SERIE A HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY SPORT SERIE A HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96228
+#EXTINF:-1 tvg-ID="skysport1.it" tvg-name="|IT| SKY SPORT UNO HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY SPORT UNO HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96249
+#EXTINF:-1 tvg-ID="skysportf1.it" tvg-name="|IT| SKY SPORTS F1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY SPORTS F1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96242
+#EXTINF:-1 tvg-ID="skysportfootball.it" tvg-name="|IT| SKY SPORTS FOOTBALL HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY SPORTS FOOTBALL HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96247
+#EXTINF:-1 tvg-ID="skysportnba.it" tvg-name="|IT| SKY SPORTS NBA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY SPORTS NBA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96243
+#EXTINF:-1 tvg-ID="skytg24.it" tvg-name="|IT| SKY TG 24 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY TG 24 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96164
+#EXTINF:-1 tvg-ID="skyuno.it" tvg-name="|IT| SKY UNO  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY UNO  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96320
+#EXTINF:-1 tvg-ID="skyuno.it" tvg-name="|IT| SKY UNO  2 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY UNO  2 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96319
+#EXTINF:-1 tvg-ID="skyuno.it" tvg-name="|IT| SKY UNO HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY UNO HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96321
+#EXTINF:-1 tvg-ID="spike.it" tvg-name="|IT| SPIKE HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SPIKE HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96166
+#EXTINF:-1 tvg-ID="sportitalia.it" tvg-name="|IT| SPORTITALIA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SPORTITALIA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96236
+#EXTINF:-1 tvg-ID="super.it" tvg-name="|IT| SUPER! HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SUPER! HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96196
+#EXTINF:-1 tvg-ID="supertennis.it" tvg-name="|IT| SUPERTENNIS HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SUPERTENNIS HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96233
+#EXTINF:-1 tvg-ID="tgnorba24.it" tvg-name="|IT| TG NORBA 24 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| TG NORBA 24 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96163
+#EXTINF:-1 tvg-ID="tgcom.it" tvg-name="|IT| TGCOM24 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| TGCOM24 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96162
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| TOP CALCIO 24 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| TOP CALCIO 24 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96213
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| TOP PLANET HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| TOP PLANET HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96214
+#EXTINF:-1 tvg-ID="topcrime.it" tvg-name="|IT| TOPCRIME HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| TOPCRIME HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96253
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| TORINO CHANNEL HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| TORINO CHANNEL HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96216
+#EXTINF:-1 tvg-ID="tv8.it" tvg-name="|IT| TV 8 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| TV 8 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96335
+#EXTINF:-1 tvg-ID="tv2000.it" tvg-name="|IT| TV2000 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| TV2000 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96150
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| UNIRESAT HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| UNIRESAT HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96231
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| VETRINA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| VETRINA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96134
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| VETRINA SKY PRIMAFILA HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| VETRINA SKY PRIMAFILA HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96272
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| VIRGIN RADIO HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| VIRGIN RADIO HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96138
+#EXTINF:-1 tvg-ID="" tvg-name="##### |IT|HD| TIMESHIFTED 1 HOUR #####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",##### |IT|HD| TIMESHIFTED 1 HOUR #####
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96399
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PREMIUM ACTION HD  1" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM ACTION HD  1
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96265
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PREMIUM CINEMA  24 HD  1" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM CINEMA  24 HD  1
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96267
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PREMIUM CINEMA COMEDY HD  1" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM CINEMA COMEDY HD  1
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96261
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PREMIUM CINEMA EMOTION HD  1" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM CINEMA EMOTION HD  1
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96257
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PREMIUM CINEMA ENERGY HD 1" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM CINEMA ENERGY HD 1
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96259
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PREMIUM CINEMA HD  1" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM CINEMA HD  1
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96269
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PREMIUM CRIME HD  1" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM CRIME HD  1
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96263
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| PREMIUM STORIES HD  1" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| PREMIUM STORIES HD  1
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96255
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY ARTE  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY ARTE  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96299
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA ACTION  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA ACTION  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96281
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA COLLECTION  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA COLLECTION  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96285
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA COMEDY  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA COMEDY  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96279
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DRAMA  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA DRAMA  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96273
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA DUE  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA DUE  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96288
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA FAMILY  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA FAMILY  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96283
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA ROMANCE  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA ROMANCE  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96277
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA SUSPENSE  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA SUSPENSE  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96275
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY CINEMA UNO  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY CINEMA UNO  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96291
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY FORMULA 1  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY FORMULA 1  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96241
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY MOTO GP  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY MOTO GP  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96239
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SKY SPORT 251 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| SKY SPORT 251 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96227
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| ITALIA 1  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| ITALIA 1  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96339
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| LA 7  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| LA 7  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96337
+#EXTINF:-1 tvg-ID="raiuno.it" tvg-name="|IT| RAI 1  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI 1  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96349
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 2  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI 2  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96347
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 3  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI 3  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96345
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RETE 4  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RETE 4  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96343
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CI CRIME INVESTIGATION  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CI CRIME INVESTIGATION  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96301
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| BLAZE  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| BLAZE  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96313
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CANALE 5  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CANALE 5  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96341
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| COMEDY CENTRAL  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| COMEDY CENTRAL  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96295
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| FOX ANIMATION  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| FOX ANIMATION  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96303
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| FOX COMEDY  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| FOX COMEDY  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96305
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| FOX CRIME  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| FOX CRIME  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96307
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| FOX LIFE  1 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| FOX LIFE  1 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96309
+#EXTINF:-1 tvg-ID="" tvg-name="##### |IT|HD| TIMESHIFTED 6 HOUR#####" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",##### |IT|HD| TIMESHIFTED 6 HOUR#####
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96352
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| ITALIA 1 6 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| ITALIA 1 6 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96322
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 1 6 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI 1 6 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96327
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 2 6 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI 2 6 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96326
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RAI 3 6 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RAI 3 6 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96325
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| RETE 4 6 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| RETE 4 6 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96324
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| CANALE 5 6 HD" tvg-logo="http://212.8.253.112/logo/FLAGS/flag_italy.png" group-title="ITALY HD",|IT| CANALE 5 6 HD
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/96323
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SARDEGNA UNO" tvg-logo="" group-title="ITALY HD",|IT| SARDEGNA UNO
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/97164
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| VIDEOLINA" tvg-logo="" group-title="ITALY HD",|IT| VIDEOLINA
+http://line.myott.net:80/24W9hPyp94/Pi4OcfElGN/97165
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
